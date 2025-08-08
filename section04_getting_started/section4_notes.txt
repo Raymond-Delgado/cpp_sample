@@ -1,0 +1,8 @@
+-- COMPILER ERRORS --
+NOTE: Programing languages have rules
+- Syntax Errors: Something wrong with the structure
+- Semantic Errors: Something wrong with the meaning
+
+-- COMPILER WARNINGS --
+The complier has recognized an issue with your code that could lead to a potential problem.
+  - Only a warning because the complier is still able to generate correct machine code 
