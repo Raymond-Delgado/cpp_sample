@@ -10,3 +10,12 @@ The complier has recognized an issue with your code that could lead to a potenti
 -- LINKER ERRORS --
 Linker is having trouble linking all objects files together to create an executable.
   - Usually there is a library/object file that is missing.
+
+-- RUNTIME ERRORS --
+Errors that occur when the program is executing.
+Typical runtime errors:
+  - Divide by 0
+  - File not found
+  - Out of memory
+Can cause your program to 'crash'
+Exception Handling can help deal with runtime errors
