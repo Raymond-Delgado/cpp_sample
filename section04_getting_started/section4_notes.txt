@@ -6,3 +6,7 @@ NOTE: Programing languages have rules
 -- COMPILER WARNINGS --
 The complier has recognized an issue with your code that could lead to a potential problem.
   - Only a warning because the complier is still able to generate correct machine code 
+
+-- LINKER ERRORS --
+Linker is having trouble linking all objects files together to create an executable.
+  - Usually there is a library/object file that is missing.
