@@ -23,3 +23,15 @@ Exception Handling can help deal with runtime errors
 -- LOGIC ERRORS --
 Errors/Bugs in your code that cause your program to run incorrectly
 - Mistakes made by the programmer
+
+-- QUIZ --
+ 1) [COMPILERS] are used to translate programming language source code instructions into the appropriate machine language instructions.
+ 2) Integrated Development Environment (IDE) typically includes: [DEEBUGGER, TEXT EDITOR, COMPILER]
+ 3) A [PROGRAM] is a set of instructions that a computer executes to solve a problem.
+ 4) Syntax errors are detected by the [COMPILER]
+ 5) A set of precise steps for solving a problem is known as a(n): [ALGORITHM]
+ 6) The statements written by programmers are called [SOURCE CODE]
+ 7) The rules that must be followed when writing programs in specific programming languages are called [SYNTAX]
+ 8) Mistakes by the programmer that cause a program to produce incorrect results are called [LOGIC ERRORS]
+ 9) If you declare a variable and use it before initializing it the compiler will generate a(n) [WARNING]
+10) The error generated when all the parts that make up a program cannot be put together because one or more are missing is called a [LINKER ERROR]
