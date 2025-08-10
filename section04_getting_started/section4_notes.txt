@@ -19,3 +19,7 @@ Typical runtime errors:
   - Out of memory
 Can cause your program to 'crash'
 Exception Handling can help deal with runtime errors
+
+-- LOGIC ERRORS --
+Errors/Bugs in your code that cause your program to run incorrectly
+- Mistakes made by the programmer
